@@ -1,4 +1,6 @@
 # Sample Bank Reconciliation Tool
+Author:Praise Chitavati
+Technical Stack:Python, Openpyxl
 
 Compares Bank Statement CSV with Cashbook Excel and gives 3 reports.
 
