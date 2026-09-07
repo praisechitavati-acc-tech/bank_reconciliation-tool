@@ -1,4 +1,4 @@
-# Bank Reconciliation Tool
+# Sample Bank Reconciliation Tool
 
 Compares Bank Statement CSV with Cashbook Excel and gives 3 reports.
 
